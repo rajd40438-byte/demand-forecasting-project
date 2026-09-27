@@ -81,4 +81,4 @@ streamlit run app.py
 ```
 
 ## Live demo
-(add your deployed Streamlit Community Cloud link here)
+https://fraud-detection-app-8xu4xttzdyy4xuaumsvnmw.streamlit.app/
